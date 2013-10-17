@@ -1,15 +1,15 @@
 {
-    "name": "herzult/forum-bundle",
+    "name": "knopa/forum-bundle",
     "description": "A simple Symfony forum bundle.",
     "keywords": ["symfony", "forum"],
-    "homepage": "https://github.com/Herzult/HerzultForumBundle.git",
+    "homepage": "https://github.com/knopa/HerzultForumBundle.git",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Antoine Hérault",
-            "email": "antoine.herault@gmail.com",
-            "homepage": "https://github.com/Herzult"
+            "name": "Sergey Slepokurov",
+            "email": "klepa.klepa@gmail.com",
+            "homepage": "https://github.com/knopa"
         }
     ],
     "require": {
